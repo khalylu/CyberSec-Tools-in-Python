@@ -1,2 +1,2 @@
 # CyberSec-Tools-in-Python
-Writing code for malware
+Short scripts for for common cyber security tasks
